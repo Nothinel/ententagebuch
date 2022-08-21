@@ -1,0 +1,114 @@
+{
+    "einträge": [
+        {
+            "q": "Wo könnte die Ente sich in dieser Gegend versorgen?",
+            "a": "Paunsdorf Center",
+            "e": [
+                "|009|261325aug2022| Eintrag   | großartige Versorgungsmöglichkeiten im ******************       |"
+            ],
+            "c": "1dfeb7abc37c3905392c53ded9e87dc9554ebc34adf004ac26620606730549bd"
+        },
+        {
+            "q": "Welche Nummer trägt der zentrale Ein/Ausgang Richtung Westen?",
+            "a": "1",
+            "e": [
+                "|010|261326aug2022| Eintrag   | Eingang * als zentraler Ausgangspunkt der Erkundung gewählt     |"
+            ],
+            "c": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+        },
+        {
+            "q": "Wer hat die Entsorgungsbehälter an den Rändern der Allee hergestellt?",
+            "a": "Erlau",
+            "e": [
+                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |"
+            ],
+            "c": "f7c409847083098d91ada5f17133e28be15a155bb6534d139a73b06273b05fda"
+        },
+        {
+            "q": "Wie groß ist die Leitung am 2. Hydranten in Richtung N?",
+            "a": "100",
+            "e": [
+                "|012|261330aug2022| Eintrag   | Wasserversorgung: Hydranten. Künstlicher See für Küken?         |",
+                "|   |             |           | 1. Hydrandt Richtung Norden 100 2. Hydrant  ***er Leitung       |"
+            ],
+            "c": "ad57366865126e55649ecb23ae1d48887544976efea46a48eb5d85a6eeb4d306"
+        },
+        {
+            "q": "Wie ist der fehlende Anfang des Firmennamens?",
+            "a": "Keula",
+            "e": [
+                "|013|261332aug2022| Eintrag   | Vom Ausgangspunkt Richtung S 2 weitere Hydranten, beide von     |",
+                "|   |             |           | *****hütte                                                      |"
+            ],
+            "c": "68ec88f02b9aa81c8b7a72f8ffb2a91c7917787c5f4254cc6c4ecf28af5fd209"
+        },
+        {
+            "q": "Welche Nummer muss der LNetz genannt werden, wenn es auf dem Parkplatz Stromprobleme gibt?",
+            "a": "3207",
+            "e": [
+                "|014|261334aug2022| Eintrag   | Bei Stromproblemen LNetzanrufen und **** prüfen lassen          |"
+            ],
+            "c": "098ce5419c70dd06d0914b80a5b8a4583818d7fa0f336b32922e4be472036f99"
+        },
+        {
+            "q": "Wie viele KRAD Parkplätze gibt es vor Eingang 6?",
+            "a": "6",
+            "e": [
+                "|015|261336aug2022| Eintrag   | Top Kommunikationsanschlüsse: Platz für * Kradmelder vor 5      |"
+            ],
+            "c": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+        },
+        {
+            "q": "Welche vielstellige ID mit bezug zu E-Mobilität endet auf 2? (Vollständige ID angeben!",
+            "a": "DE*961*E0341*1023*2",
+            "e": [
+                "|016|261338aug2022| Eintrag   | Moderne E-Mobilität? check! Säule DE****************2           |"
+            ],
+            "c": "3f584a53896c1aa319610e02c44e47632b47096936065fc506a928a8a29004ad"
+        },
+        {
+            "q": "Welche fünfstellige Zahl gehört zu dieser Stelle?",
+            "a": "11057",
+            "e": [
+                "|017|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m Testei bei ***** gelegt             |",
+                "|   |             | Pos.Daten | Weiter Richtung W                                               |"
+            ],
+            "c": "59ef29381c37b186f7f6f7e806d5b57da741bc75e18b4bae0e660b33d225ae91"
+        },
+        {
+            "q": "Welche Störrufnummer ist gemeint? (inkl. Leerzeichen)",
+            "a": "0800 1213000",
+            "e": [
+                "|018|261342aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
+            ],
+            "c": "5b02bffe549bfe8de5cc924e9cb8733a21687af8850055e596c9d61af1cda6ca"
+        },
+        {
+            "q": "Vor welchen Tieren hat die Ente angst?",
+            "a": "Hunde",
+            "e": [
+                "|019|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
+            ],
+            "c": "fa4048189b9a986e706683f3f50e5be4fb0978813f4ee5bfd3ac071b15937d94"
+        },
+        {
+            "q": "Wie viele weiße Quadrate sind an der Wand?",
+            "a": "11",
+            "e": [
+                "|020|261347aug2022| Eintrag   | Vom westlichen Ende des IP/ZD Parkplatz hat man eine schöne     |",
+                "|   |             |           | Aussicht. Richtung SW eine pinke Wand mit ** weißen Quadraten   |",
+                "|021|261350aug2022| Pos.Daten | ENTe bewegt sich, Kurs ca. 90°                                  |"
+            ],
+            "c": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+        },
+        {
+            "q": "Was wird hinter Tor 10 gemacht?",
+            "a": "Abgasuntersuchung",
+            "e": [
+                "|021|261351aug2022| Eintrag   | Tor 10 der roten Firma erinnert mich daran die Ente mal wieder  |",
+                "|   |             |           | zur ***************** zu bringen, gilt es eigentlich E-Enten?   |"
+            ],
+            "c": "c2dc9b63929a086ac3b7a85c8c8ce385829b661debb824629f4b6394f97fa48c"
+        }
+    ]
+}

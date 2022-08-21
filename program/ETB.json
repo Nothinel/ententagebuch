@@ -1,0 +1,110 @@
+{
+    "einträge": [
+        {
+            "q": "Wo könnte die Ente sich in dieser Gegend versorgen?",
+            "a": "Paunsdorf Center",
+            "e": [
+                "|009|261325aug2022| Eintrag   | großartige Versorgungsmöglichkeiten im ******************       |"
+            ]
+        },
+        {
+            "q": "Welche Nummer trägt der zentrale Ein/Ausgang Richtung Westen?",
+            "a": "1",
+            "e": [
+                "|010|261326aug2022| Eintrag   | Eingang * als zentraler Ausgangspunkt der Erkundung gewählt     |"
+            ]
+        },
+        {
+            "q": "Wer hat die Entsorgungsbehälter an den Rändern der Allee hergestellt?",
+            "a": "Erlau",
+            "e": [
+                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |"
+            ]
+        },
+        {
+            "q": "Wie groß ist die Leitung am 2. Hydranten in Richtung N?",
+            "a": "100",
+            "e": [
+                "|012|261330aug2022| Eintrag   | Wasserversorgung: Hydranten. Künstlicher See für Küken?         |",
+                "|   |             |           | 1. Hydrandt Richtung Norden 100 2. Hydrant  ***er Leitung       |"
+            ]
+        },
+        {
+				"q": "Wie ist der fehlende Anfang des Firmennamens?",
+            "a": "Keula",
+            "e": [
+                "|013|261332aug2022| Eintrag   | Vom Ausgangspunkt Richtung S 2 weitere Hydranten, beide von     |",
+                "|   |             |           | *****hütte                                                      |"
+            ]
+        },
+        {
+            "q": "Welche Nummer muss der LNetz genannt werden, wenn es auf dem Parkplatz Stromprobleme gibt?",
+            "a": "3207",
+            "e": [
+                "|014|261334aug2022| Eintrag   | Bei Stromproblemen LNetzanrufen und **** prüfen lassen          |"
+            ]
+        },
+        {
+            "q": "Wie viele KRAD Parkplätze gibt es vor Eingang 6?",
+            "a": "6",
+            "e": [
+                "|015|261336aug2022| Eintrag   | Top Kommunikationsanschlüsse: Platz für * Kradmelder vor 5      |"
+            ]
+        },
+        {
+            "q": "Welche vielstellige ID mit bezug zu E-Mobilität endet auf 2? (Vollständige ID angeben!",
+            "a": "DE*961*E0341*1023*2",
+            "e": [
+                "|016|261338aug2022| Eintrag   | Moderne E-Mobilität? check! Säule DE****************2           |"
+            ]
+        },
+        {
+            "q": "Welche fünfstellige Zahl gehört zu dieser Stelle?",
+            "a": "11057",
+            "e": [
+                "|017|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m Testei bei ***** gelegt             |",
+                "|   |             | Pos.Daten | Weiter Richtung W                                               |"
+            ]
+        },
+        {
+            "q": "Welche Störrufnummer ist gemeint? (inkl. Leerzeichen)",
+            "a": "0800 1213000",
+            "e": [
+                "|018|261342aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
+            ]
+        },
+        {
+            "q": "Vor welchen Tieren hat die Ente angst?",
+            "a": "Hunde",
+            "e": [
+                "|019|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
+            ]
+        },
+		{
+            "q": "Wie viele weiße Quadrate sind an der Wand?",
+            "a": "11",
+            "e": [
+                "|020|261347aug2022| Eintrag   | Vom westlichen Ende des IP/ZD Parkplatz hat man eine schöne     |",
+                "|   |             |           | Aussicht. Richtung SW eine pinke Wand mit ** weißen Quadraten   |",
+                "|021|261350aug2022| Pos.Daten | ENTe bewegt sich, Kurs ca. 90°                                  |"
+            ]
+        },
+		{
+            "q": "Was wird hinter Tor 10 gemacht?",
+            "a": "Abgasuntersuchung",
+            "e": [
+                "|022|261351aug2022| Eintrag   | Tor 10 der roten Firma erinnert mich daran die Ente mal wieder  |",
+                "|   |             |           | zur ***************** zu bringen, gilt es eigentlich E-Enten?   |"
+            ]
+        },
+		{
+            "q": "Analyse Abgeschlossen! Drücken Sie ENTER!"",
+            "a": "",
+            "e": [
+                "|023|261355aug2022| Eintrag   | ENTgültige Schlussfolgerung: Nicht der optimale Ort für Eier.   |",
+                "|   |             |           | Zurück zu Plan B!                                               |"
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "einträge": [
+        {
+            "q": "Wo könnte die Ente sich in dieser Gegend versorgen?",
+            "a": "Paunsdorf Center",
+            "e": [
+                "|009|261325aug2022| Eintrag   | großartige Versorgungsmöglichkeiten im ******************       |"
+            ]
+        },
+        {
+            "q": "Welche Nummer trägt der zentrale Ein/Ausgang Richtung Westen?",
+            "a": "1",
+            "e": [
+                "|010|261326aug2022| Eintrag   | Eingang * als zentraler Ausgangspunkt der Erkundung gewählt     |"
+            ]
+        },
+        {
+            "q": "Wer hat die Entsorgungsbehälter an den Rändern der Allee hergestellt?",
+            "a": "Erlau",
+            "e": [
+                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |"
+            ]
+        },
+        {
+            "q": "Welche Nummer muss der LNetz genannt werden, wenn es auf dem Parkplatz Stromprobleme gibt?",
+            "a": "3207",
+            "e": [
+                "|012|261330aug2022| Eintrag   | Bei Stromproblemen LNetzanrufen und **** prüfen lassen          |"
+            ]
+        },
+        {
+            "q": "Wie viele KRAD Parkplätze gibt es vor Eingang 6?",
+            "a": "6",
+            "e": [
+                "|013|261330aug2022| Eintrag   | Top Kommunikationsanschlüsse: Platz für * Kradmelder vor 5      |"
+            ]
+        },
+        {
+            "q": "Welche vielstellige ID mit bezug zu E-Mobilität endet auf 2? (Vollständige ID angeben!",
+            "a": "DE*961*E0341*1023*2",
+            "e": [
+                "|014|261333aug2022| Eintrag   | Moderne E-Mobilität? check! Säule DE****************2           |"
+            ]
+        },
+        {
+            "q": "Welche fünfstellige Zahl gehört zu dieser Stelle?",
+            "a": "11057",
+            "e": [
+                "|015|261338aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m Testei bei ***** gelegt             |"
+            ]
+        },
+        {
+            "q": "Welche Störrufnummer ist gemeint? (inkl. Leerzeichen)",
+            "a": "0800 1213000",
+            "e": [
+                "|015|261340aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
+            ]
+        },
+        {
+            "q": "Vor welchen Tieren hat die Ente angst?",
+            "a": "Hunde",
+            "e": [
+                "|016|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
+            ]
+        }
+    ]
+}
