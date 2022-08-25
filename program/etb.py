@@ -297,7 +297,7 @@ def main(stdscr):
         for line in etb_entry["e"]:
             os.system(f"echo '{line}' >> lines")
             line_list.append(line)
-        if len(line_list) > 15:
+        if len(line_list) > 12:
             line_list.pop(1)
         show_partial_etb(stdscr, line_list, start_line=0)
         #time.sleep(2)
