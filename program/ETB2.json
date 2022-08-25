@@ -18,74 +18,76 @@
             "q": "Wer hat die Entsorgungsbehälter an den Rändern der Allee hergestellt?",
             "a": "Erlau",
             "e": [
-                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |"
+                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |",
+                "|   |             |           | vllt findet sich irgendwo Wasser und alles zu reinigen          |"
             ]
         },
         {
             "q": "Wie groß ist die Leitung am 2. Hydranten in Richtung N?",
             "a": "100",
             "e": [
-                "|012|261330aug2022| Eintrag   | Wasserversorgung: Hydranten. Künstlicher See für Küken?         |",
+                "|012|261330aug2022| Eintrag   | Wasserversorgung: Hydranten. Einfach einen sauberen See machen? |",
                 "|   |             |           | 1. Hydrandt Richtung Norden 100 2. Hydrant  ***er Leitung       |"
             ]
         },
         {
 				"q": "Wie ist der fehlende Anfang des Firmennamens?",
-            "a": "KEULA",
+            "a": "Keula",
             "e": [
                 "|013|261332aug2022| Eintrag   | Vom Ausgangspunkt Richtung S 2 weitere Hydranten, beide von     |",
                 "|   |             |           | *****hütte                                                      |"
             ]
         },
         {
-            "q": "Welche Nummer muss der LNetz genannt werden, wenn es auf dem Parkplatz Stromprobleme gibt?",
+            "q": "Welchen Anschluss soll die LNetz abschalten?",
             "a": "3207",
             "e": [
-                "|014|261334aug2022| Eintrag   | Bei Stromproblemen LNetzanrufen und **** prüfen lassen          |"
+                "|014|261334aug2022| Eintrag   | Lieber vorher den Strom ausschalten, Nummer ****                |"
             ]
         },
         {
             "q": "Wie viele KRAD Parkplätze gibt es vor Eingang 6?",
             "a": "6",
             "e": [
-                "|015|261336aug2022| Eintrag   | Top Kommunikationsanschlüsse: Platz für * Kradmelder vor 5      |"
+                "|015|261336aug2022| Eintrag   | Vorsicht, laut! Menschen und diese Zweiräder, hier passen gut * |",
+                "|   |             |           | alleine vor Eingang 6.                                          |"
             ]
         },
         {
             "q": "Welche vielstellige ID mit bezug zu E-Mobilität endet auf 2? (Vollständige ID angeben!",
             "a": "DE*961*E0341*1023*2",
             "e": [
-                "|016|261338aug2022| Eintrag   | Moderne E-Mobilität? check! Säule DE****************2           |"
+                "|016|261338aug2022| Eintrag   | Leise E-Mobilität? check! Säule DE****************2             |"
             ]
         },
         {
             "q": "Welche fünfstellige Zahl gehört zu dieser Stelle?",
             "a": "11057",
             "e": [
-                "|017|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m Testei bei ***** gelegt             |",
-                "|   |             | Pos.Daten | Weiter Richtung W                                               |"
+                "|018|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m                                     |",
+                "|   |             | Pos.Daten | Bei ***** großer Schreck, Ei raus und schnell weg               |"
             ]
         },
         {
             "q": "Welche Störrufnummer ist gemeint? (inkl. Leerzeichen)",
             "a": "0800 1213000",
             "e": [
-                "|018|261342aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
+                "|019|261342aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
             ]
         },
         {
             "q": "Vor welchen Tieren hat die Ente angst?",
             "a": "Hunde",
             "e": [
-                "|019|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
+                "|020|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
             ]
         },
 		{
             "q": "Wie viele weiße Quadrate sind an der Wand?",
             "a": "11",
             "e": [
-                "|020|261347aug2022| Eintrag   | Vom westlichen Ende des IP/ZD Parkplatz hat man eine schöne     |",
-                "|   |             |           | Aussicht. Richtung SW eine pinke Wand mit ** weißen Quadraten   |",
+                "|020|261347aug2022| Eintrag   | Am westlichen Ende des IP/ZD Parkplatz kein Entkommen, Zäune    |",
+                "|   |             |           | Richtung SW eine pinke Wand mit ** weißen Quadraten, vllt dahin?|",
                 "|021|261350aug2022| Pos.Daten | ENTe bewegt sich, Kurs ca. 90°                                  |"
             ]
         },
@@ -93,15 +95,15 @@
             "q": "Was wird hinter Tor 10 gemacht?",
             "a": "Abgasuntersuchung",
             "e": [
-                "|022|261351aug2022| Eintrag   | Tor 10 der roten Firma erinnert mich daran die Ente mal wieder  |",
-                "|   |             |           | zur ***************** zu bringen, gilt es eigentlich E-Enten?   |"
+                "|022|261351aug2022| Eintrag   | Motorenlärm hinter Tor 10 dieser roten Firma, was machen die da?|",
+                "|   |             |           | Ah: ***************** Gibt es eigentlich E-Enten?               |"
             ]
         },
 		{
             "q": "Analyse Abgeschlossen! Drücken Sie ENTER!",
             "a": "",
             "e": [
-                "|023|261355aug2022| Eintrag   | ENTgültige Schlussfolgerung: Nicht der optimale Ort für Eier.   |",
+                "|023|261355aug2022| Eintrag   | ENTgültige Schlussfolgerung: Viel zu viel Lärm und Chaos hier   |",
                 "|   |             |           | Zurück zu Plan B!                                               |"
             ]
         }

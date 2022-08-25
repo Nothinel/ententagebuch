@@ -67,8 +67,9 @@ def password(stdscr):
     hash_dig = hashed_entry.hexdigest()
     os.system(f"echo '{hash_dig}' >> keys")
     stdscr.clear()
+    #"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"):
     if (hash_dig ==
-    "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"):
+    "54986d595e3e8c4b0258170055aab128b4e51ef86abadf53270221c7d41c19b5"):
         return True, PASSWORD
     else:
         return False, PASSWORD
@@ -229,7 +230,7 @@ def guess_line(stdscr, etb_entry):
                 running = False
             elif (key == 8) or (key==127):
                 i = i-1
-                entry.pop(-1)
+                if i > 0: entry.pop(-1)
             else:
                 try:
                     ans_win.addstr(0, i, convert_ch(key), GREEN_BLACK | curses.A_BOLD)

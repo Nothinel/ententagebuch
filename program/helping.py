@@ -36,7 +36,8 @@ def pwgen(pw):
 
 def pw_add(pw):
     hash_str = pwgen(pw)
-    #os.system(f"echo {hash_str} >> etb.py")
+    os.system(f"echo {hash_str} >> etb.py")
+pw_add("achtung")
 
 def ans_check_gen(file_name):
     with open(file_name, "r") as f:
@@ -80,7 +81,7 @@ def generate_check_ETB(file_name):
     with open(file_name.replace(".json", "_c.json"), "w", encoding="utf-8") as f:
         json.dump(etb, f, indent=4, ensure_ascii=False)
         
-generate_check_ETB("ETB.json")
+#generate_check_ETB("ETB.json")
 
 def crop_etb_start(etb_file):
     with open(etb_file, "r") as f:
@@ -97,7 +98,7 @@ def show_ETB(file_name):
     with open(file_name, "r") as f:
         etb = json.load(f)
     print(etb)
-#show_ETB("ETB.json")
+show_ETB("ETB.json")
 
 def make_ETB_entries_list(file_name):
     with open(file_name, "r") as f:

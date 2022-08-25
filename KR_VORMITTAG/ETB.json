@@ -4,7 +4,7 @@
             "q": "Wo könnte die Ente sich in dieser Gegend versorgen?",
             "a": "Paunsdorf Center",
             "e": [
-                "|009|261325aug2022| Eintrag   | großartige Versorgungsmöglichkeiten im ********* ******         |"
+                "|009|261325aug2022| Eintrag   | großartige Versorgungsmöglichkeiten im ******************       |"
             ]
         },
         {
@@ -31,7 +31,7 @@
         },
         {
 				"q": "Wie ist der fehlende Anfang des Firmennamens?",
-            "a": "KEULA",
+            "a": "Keula",
             "e": [
                 "|013|261332aug2022| Eintrag   | Vom Ausgangspunkt Richtung S 2 weitere Hydranten, beide von     |",
                 "|   |             |           | *****hütte                                                      |"
