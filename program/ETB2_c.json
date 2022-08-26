@@ -17,7 +17,7 @@
             "c": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
         },
         {
-            "q": "Wer hat die Entsorgungsbehälter an den Rändern der Allee hergestellt?",
+            "q": "Welche Firma hat Möglichkeiten für die Menschen geschaffen die Allee sauber zu halten?",
             "a": "Erlau",
             "e": [
                 "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |",
@@ -73,7 +73,7 @@
             "a": "11057",
             "e": [
                 "|018|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m                                     |",
-                "|   |             | Pos.Daten | Bei ***** großer Schreck, Ei raus und schnell weg               |"
+                "|   |             | Pos.Daten | Bei ***** großer Schreck schnell weg (Richtung W)               |"
             ],
             "c": "59ef29381c37b186f7f6f7e806d5b57da741bc75e18b4bae0e660b33d225ae91"
         },
@@ -89,7 +89,8 @@
             "q": "Vor welchen Tieren hat die Ente angst?",
             "a": "Hunde",
             "e": [
-                "|020|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
+                "|020|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |",
+                "|   |             | Eintrag   | großer Schreck, Ei raus und schnell weg                         |"
             ],
             "c": "fa4048189b9a986e706683f3f50e5be4fb0978813f4ee5bfd3ac071b15937d94"
         },
@@ -98,7 +99,7 @@
             "a": "11",
             "e": [
                 "|020|261347aug2022| Eintrag   | Am westlichen Ende des IP/ZD Parkplatz kein Entkommen, Zäune    |",
-                "|   |             |           | Richtung SW eine pinke Wand mit ** weißen Quadraten, vllt dahin?|",
+                "|   |             |           | Richtung SW eine pinke Wand mit ** weißen Quadraten, nur weg    |",
                 "|021|261350aug2022| Pos.Daten | ENTe bewegt sich, Kurs ca. 90°                                  |"
             ],
             "c": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
@@ -117,7 +118,7 @@
             "a": "",
             "e": [
                 "|023|261355aug2022| Eintrag   | ENTgültige Schlussfolgerung: Viel zu viel Lärm und Chaos hier   |",
-                "|   |             |           | Zurück zu Plan B!                                               |"
+                "|   |             |           | ich suche mir jemanden der mir vllt das Wasser reichen kann     |"
             ],
             "c": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
