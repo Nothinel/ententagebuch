@@ -289,7 +289,7 @@ def main(stdscr):
         if not done: display_ascii_art(stdscr, "ascii_art/falsch.txt",
                 duration=10)
     display_ascii_art(stdscr, "richtig.txt", duration=5)
-    display_text_file(stdscr, "ETB.ltxt", duration=2)
+    display_text_file(stdscr, "ETB.ltxt", duration=20)
     display_ascii_art(stdscr, "error_explain.txt", duration=False)
     progress_bar(stdscr, " ", duration=45)
     stdscr.clear()
