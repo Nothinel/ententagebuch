@@ -1,5 +1,8 @@
 Der Inhalt dieses Einsatztagebuchs wurde beschädigt. Um eine Wiederherstellung
 starten zu können braucht das System bestimmte Informationen als Vergleich. Im
 Folgenden wird Zeile für Zeile versucht das System mit diesen Informationen
-anzulernen. 
+anzulernen. Dieser Prozess ist schwierig und instabil. Führen Sie separat Buch
+über alle Eintragungen. Sollte eine Antwort nicht exakt passen, können Sie es
+beliebig oft erneut versuchen. Groß und Kleinschreibung sowie Zeichensetzung ist
+entscheident. Wenn Sie unsicher sind versuchen Sie verschiedene Varianten.
            Drücken Sie ENTER um die Wiederherstellung zu starten!

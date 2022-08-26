@@ -35,6 +35,7 @@ def password(stdscr):
     y_max, x_max = stdscr.getmaxyx()
     y_init = y_max//2
     x_init = (x_max//2)-6
+    stdscr.addstr(y_init-4, x_init, "Passwort eingeben!", GREEN_BLACK | curses.A_BOLD)
     stdscr.move(y_init,x_init)
 #    key = stdscr.getkey()
 #    stdscr.addstr(10, 10, "hi")
@@ -284,11 +285,12 @@ def main(stdscr):
     done = False
     while not done:
         done, PASSWORD = password(stdscr)
-        if not done: display_ascii_art(stdscr, "ascii_art/falsch.txt", duration=1)
-    display_ascii_art(stdscr, "richtig.txt", duration=1)
-    display_text_file(stdscr, "ETB.ltxt", duration=1)
+        if not done: display_ascii_art(stdscr, "ascii_art/falsch.txt",
+                duration=10)
+    display_ascii_art(stdscr, "richtig.txt", duration=5)
+    display_text_file(stdscr, "ETB.ltxt", duration=20)
     display_ascii_art(stdscr, "error_explain.txt", duration=False)
-    progress_bar(stdscr, " ", duration=1)
+    progress_bar(stdscr, " ", duration=45)
     stdscr.clear()
     with open("ETB_c.json", "r") as f:
         etb_json = json.load(f)
@@ -300,12 +302,12 @@ def main(stdscr):
         while len(line_list) > 12:
             line_list.pop(1)
         show_partial_etb(stdscr, line_list, start_line=0)
-        #time.sleep(2)
+        #time.sleep(0.2)
         guess_line(stdscr, etb_entry)
-    display_text_file(stdscr, "end.txt", duration=False)
+    display_ascii_art(stdscr, "end.txt", duration=False)
     for i in range(0,59):
         scramble_ascii_art("ascii_art/SKU.txt")
-        display_ascii_art(stdscr, "ascii_art/SKU.txt.scrambled", duration=1)
+        display_ascii_art(stdscr, "ascii_art/SKU.txt.scrambled", duration=0.1)
         stdscr.refresh()
         stdscr.clear()
     display_ascii_art(stdscr, "ascii_art/SKU.txt", duration=False)
@@ -315,6 +317,7 @@ def main(stdscr):
 
 if __name__ == "__main__":
     wrapper(main)
+    os.system("cat ascii_art/SKU.txt")
 
 
 
