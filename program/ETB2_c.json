@@ -20,7 +20,8 @@
             "q": "Wer hat die Entsorgungsbehälter an den Rändern der Allee hergestellt?",
             "a": "Erlau",
             "e": [
-                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |"
+                "|011|261328aug2022| Eintrag   | könnte sauberer sein, dabei hat ***** sich so bemüht            |",
+                "|   |             |           | vllt findet sich irgendwo Wasser und alles zu reinigen          |"
             ],
             "c": "f7c409847083098d91ada5f17133e28be15a155bb6534d139a73b06273b05fda"
         },
@@ -28,7 +29,7 @@
             "q": "Wie groß ist die Leitung am 2. Hydranten in Richtung N?",
             "a": "100",
             "e": [
-                "|012|261330aug2022| Eintrag   | Wasserversorgung: Hydranten. Künstlicher See für Küken?         |",
+                "|012|261330aug2022| Eintrag   | Wasserversorgung: Hydranten. Einfach einen sauberen See machen? |",
                 "|   |             |           | 1. Hydrandt Richtung Norden 100 2. Hydrant  ***er Leitung       |"
             ],
             "c": "ad57366865126e55649ecb23ae1d48887544976efea46a48eb5d85a6eeb4d306"
@@ -43,10 +44,10 @@
             "c": "43761fef215dabbf6435e91c1a55fc1aba6838e8b16b3812e016a74a26b20519"
         },
         {
-            "q": "Welche Nummer muss der LNetz genannt werden, wenn es auf dem Parkplatz Stromprobleme gibt?",
+            "q": "Welchen Anschluss soll die LNetz abschalten?",
             "a": "3207",
             "e": [
-                "|014|261334aug2022| Eintrag   | Bei Stromproblemen LNetzanrufen und **** prüfen lassen          |"
+                "|014|261334aug2022| Eintrag   | Lieber vorher den Strom ausschalten, Nummer ****                |"
             ],
             "c": "098ce5419c70dd06d0914b80a5b8a4583818d7fa0f336b32922e4be472036f99"
         },
@@ -54,7 +55,8 @@
             "q": "Wie viele KRAD Parkplätze gibt es vor Eingang 6?",
             "a": "6",
             "e": [
-                "|015|261336aug2022| Eintrag   | Top Kommunikationsanschlüsse: Platz für * Kradmelder vor 5      |"
+                "|015|261336aug2022| Eintrag   | Vorsicht, laut! Menschen und diese Zweiräder, hier passen gut * |",
+                "|   |             |           | alleine vor Eingang 6.                                          |"
             ],
             "c": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
         },
@@ -62,7 +64,7 @@
             "q": "Welche vielstellige ID mit bezug zu E-Mobilität endet auf 2? (Vollständige ID angeben!",
             "a": "DE*961*E0341*1023*2",
             "e": [
-                "|016|261338aug2022| Eintrag   | Moderne E-Mobilität? check! Säule DE****************2           |"
+                "|016|261338aug2022| Eintrag   | Leise E-Mobilität? check! Säule DE****************2             |"
             ],
             "c": "3f584a53896c1aa319610e02c44e47632b47096936065fc506a928a8a29004ad"
         },
@@ -70,8 +72,8 @@
             "q": "Welche fünfstellige Zahl gehört zu dieser Stelle?",
             "a": "11057",
             "e": [
-                "|017|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m Testei bei ***** gelegt             |",
-                "|   |             | Pos.Daten | Weiter Richtung W                                               |"
+                "|018|261340aug2022| Pos.Daten | Vom Ausgangspunkt 271° 310m                                     |",
+                "|   |             | Pos.Daten | Bei ***** großer Schreck, Ei raus und schnell weg               |"
             ],
             "c": "59ef29381c37b186f7f6f7e806d5b57da741bc75e18b4bae0e660b33d225ae91"
         },
@@ -79,7 +81,7 @@
             "q": "Welche Störrufnummer ist gemeint? (inkl. Leerzeichen)",
             "a": "0800 1213000",
             "e": [
-                "|018|261342aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
+                "|019|261342aug2022| Eintrag   | Diesmal 3227, bei Problemen **** ******* anrufen                |"
             ],
             "c": "5b02bffe549bfe8de5cc924e9cb8733a21687af8850055e596c9d61af1cda6ca"
         },
@@ -87,7 +89,7 @@
             "q": "Vor welchen Tieren hat die Ente angst?",
             "a": "Hunde",
             "e": [
-                "|019|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
+                "|020|261345aug2022| Eintrag   | Weiter grob 180° hoffentlich haben die ihre ***** im Griff      |"
             ],
             "c": "fa4048189b9a986e706683f3f50e5be4fb0978813f4ee5bfd3ac071b15937d94"
         },
@@ -95,8 +97,8 @@
             "q": "Wie viele weiße Quadrate sind an der Wand?",
             "a": "11",
             "e": [
-                "|020|261347aug2022| Eintrag   | Vom westlichen Ende des IP/ZD Parkplatz hat man eine schöne     |",
-                "|   |             |           | Aussicht. Richtung SW eine pinke Wand mit ** weißen Quadraten   |",
+                "|020|261347aug2022| Eintrag   | Am westlichen Ende des IP/ZD Parkplatz kein Entkommen, Zäune    |",
+                "|   |             |           | Richtung SW eine pinke Wand mit ** weißen Quadraten, vllt dahin?|",
                 "|021|261350aug2022| Pos.Daten | ENTe bewegt sich, Kurs ca. 90°                                  |"
             ],
             "c": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
@@ -105,8 +107,8 @@
             "q": "Was wird hinter Tor 10 gemacht?",
             "a": "Abgasuntersuchung",
             "e": [
-                "|022|261351aug2022| Eintrag   | Tor 10 der roten Firma erinnert mich daran die Ente mal wieder  |",
-                "|   |             |           | zur ***************** zu bringen, gilt es eigentlich E-Enten?   |"
+                "|022|261351aug2022| Eintrag   | Motorenlärm hinter Tor 10 dieser roten Firma, was machen die da?|",
+                "|   |             |           | Ah: ***************** Gibt es eigentlich E-Enten?               |"
             ],
             "c": "c2dc9b63929a086ac3b7a85c8c8ce385829b661debb824629f4b6394f97fa48c"
         },
@@ -114,7 +116,7 @@
             "q": "Analyse Abgeschlossen! Drücken Sie ENTER!",
             "a": "",
             "e": [
-                "|023|261355aug2022| Eintrag   | ENTgültige Schlussfolgerung: Nicht der optimale Ort für Eier.   |",
+                "|023|261355aug2022| Eintrag   | ENTgültige Schlussfolgerung: Viel zu viel Lärm und Chaos hier   |",
                 "|   |             |           | Zurück zu Plan B!                                               |"
             ],
             "c": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

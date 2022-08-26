@@ -289,13 +289,13 @@ def main(stdscr):
         if not done: display_ascii_art(stdscr, "ascii_art/falsch.txt",
                 duration=10)
     display_ascii_art(stdscr, "richtig.txt", duration=5)
-    display_text_file(stdscr, "ETB.ltxt", duration=2)
+    display_text_file(stdscr, "ETB2.ltxt", duration=2)
     display_ascii_art(stdscr, "error_explain.txt", duration=False)
     progress_bar(stdscr, " ", duration=45)
     stdscr.clear()
-    with open("ETB_c.json", "r") as f:
+    with open("ETB2_c.json", "r") as f:
         etb_json = json.load(f)
-    line_list = crop_etb_start("ETB.ltxt")
+    line_list = crop_etb_start("ETB2.ltxt")
     for etb_entry in etb_json["einträge"]:
         for line in etb_entry["e"]:
             os.system(f"echo '{line}' >> lines")
@@ -307,11 +307,11 @@ def main(stdscr):
         guess_line(stdscr, etb_entry)
     display_ascii_art(stdscr, "end.txt", duration=False)
     for i in range(0,59):
-        scramble_ascii_art("ascii_art/SKU.txt")
-        display_ascii_art(stdscr, "ascii_art/SKU.txt.scrambled", duration=0.1)
+        scramble_ascii_art("ascii_art/Florian.txt")
+        display_ascii_art(stdscr, "ascii_art/Florian.txt.scrambled", duration=0.1)
         stdscr.refresh()
         stdscr.clear()
-    display_ascii_art(stdscr, "ascii_art/SKU.txt", duration=False)
+    display_ascii_art(stdscr, "ascii_art/Florian.txt", duration=False)
 
 
 
